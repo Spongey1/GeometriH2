@@ -1,0 +1,16 @@
+C:\Users\drit0046\VSCode\GeometriH2\bin\Debug\net5.0\GeometriH2.exe
+C:\Users\drit0046\VSCode\GeometriH2\bin\Debug\net5.0\GeometriH2.deps.json
+C:\Users\drit0046\VSCode\GeometriH2\bin\Debug\net5.0\GeometriH2.runtimeconfig.json
+C:\Users\drit0046\VSCode\GeometriH2\bin\Debug\net5.0\GeometriH2.runtimeconfig.dev.json
+C:\Users\drit0046\VSCode\GeometriH2\bin\Debug\net5.0\GeometriH2.dll
+C:\Users\drit0046\VSCode\GeometriH2\bin\Debug\net5.0\GeometriH2.pdb
+C:\Users\drit0046\VSCode\GeometriH2\obj\Debug\net5.0\GeometriH2.csproj.AssemblyReference.cache
+C:\Users\drit0046\VSCode\GeometriH2\obj\Debug\net5.0\GeometriH2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drit0046\VSCode\GeometriH2\obj\Debug\net5.0\GeometriH2.AssemblyInfoInputs.cache
+C:\Users\drit0046\VSCode\GeometriH2\obj\Debug\net5.0\GeometriH2.AssemblyInfo.cs
+C:\Users\drit0046\VSCode\GeometriH2\obj\Debug\net5.0\GeometriH2.csproj.CoreCompileInputs.cache
+C:\Users\drit0046\VSCode\GeometriH2\obj\Debug\net5.0\GeometriH2.dll
+C:\Users\drit0046\VSCode\GeometriH2\obj\Debug\net5.0\refint\GeometriH2.dll
+C:\Users\drit0046\VSCode\GeometriH2\obj\Debug\net5.0\GeometriH2.pdb
+C:\Users\drit0046\VSCode\GeometriH2\obj\Debug\net5.0\GeometriH2.genruntimeconfig.cache
+C:\Users\drit0046\VSCode\GeometriH2\obj\Debug\net5.0\ref\GeometriH2.dll
