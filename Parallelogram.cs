@@ -1,6 +1,6 @@
 namespace GeometriH2
 {
-    public class Parallelogram : Square
+    public class Parallelogram : Shape
     {
         public double B { get; set; }
 

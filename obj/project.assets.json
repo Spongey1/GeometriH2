@@ -8,26 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\drit0046\\.nuget\\packages\\": {}
+    "C:\\Users\\drito\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drit0046\\VSCode\\GeometriH2\\GeometriH2.csproj",
+      "projectUniqueName": "C:\\Users\\drito\\Coding\\GeometriH2\\GeometriH2.csproj",
       "projectName": "GeometriH2",
-      "projectPath": "C:\\Users\\drit0046\\VSCode\\GeometriH2\\GeometriH2.csproj",
-      "packagesPath": "C:\\Users\\drit0046\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drit0046\\VSCode\\GeometriH2\\obj\\",
+      "projectPath": "C:\\Users\\drito\\Coding\\GeometriH2\\GeometriH2.csproj",
+      "packagesPath": "C:\\Users\\drito\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\drito\\Coding\\GeometriH2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\drit0046\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\drito\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -55,18 +53,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.14, 5.0.14]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

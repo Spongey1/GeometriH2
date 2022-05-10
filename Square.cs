@@ -1,12 +1,7 @@
 namespace GeometriH2
 {
-    public class Square
+    public class Square : Shape
     {
-        public double A { get; set; }
-
-        public Square(double a)
-        {
-            A = a;
-        }
+        public Square(double a) : base(a) { }
     }
 }

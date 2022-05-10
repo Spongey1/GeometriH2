@@ -1,6 +1,6 @@
 namespace GeometriH2
 {
-    public class Rectangle : Square
+    public class Rectangle : Shape
     {
         public double B { get; set; }
 

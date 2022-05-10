@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\drit0046\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\drit0046\\.nuget\\packages"
+      "C:\\Users\\drito\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\drito\\.nuget\\packages"
     ]
   }
 }

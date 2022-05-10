@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HeGVFzft+ZqXHQCQRJdnCwlweay09kFDLAeHNelYm/bnkEy37zi7KS6yPQS4zor6Mr9pZ1zOuYYB0F7Qa6OwDg==",
+  "dgSpecHash": "x/oEHCx5V3aR/pWRSDV8k0Dvz4nWDLUNohQdbJPnG6+oQYjDmqP/wwVMUc0MOGVOjVxH6if1V8CJlW8Bu6rMhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\drit0046\\VSCode\\GeometriH2\\GeometriH2.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\drit0046\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\drito\\Coding\\GeometriH2\\GeometriH2.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
